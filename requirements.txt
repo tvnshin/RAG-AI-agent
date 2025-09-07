@@ -1,0 +1,7 @@
+python-telegram-bot
+pydantic-ai
+pydantic_graph
+logfire-api
+opentelemetry-sdk
+pydantic-settings
+openai<1.99.2
